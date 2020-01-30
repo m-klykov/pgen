@@ -1,0 +1,13 @@
+{
+    "name": "m-klykov/pgen",
+    "type": "project",
+    "license": "MID",
+    "authors": [
+        {
+            "name": "m-klykov",
+            "email": "m-klykov@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
